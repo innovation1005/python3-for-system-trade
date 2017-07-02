@@ -1,2 +1,2 @@
 # python3-for-system-trade
-python for system trade
+python3 for system trade

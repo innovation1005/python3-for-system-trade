@@ -33,3 +33,5 @@ $ pip install pandas-datareader
 pan12-2015_2017.ipynbのファイルに2015年から2017年までのバックテストの結果を載せています。
 
 # 学習ガイドを追加しました。
+
+reading_guide.md

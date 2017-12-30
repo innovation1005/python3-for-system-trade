@@ -258,7 +258,11 @@ Nasdaq100社の徹底研究　講談社
 
 ファインマン物理学　岩波書店
 
+EXtreme Finanical Risk by Sornette
 
+Critical Phenomena in Natural Sience by Sornette
+
+Entropy, Large Deviations, and Statistical Mechanics by Ellis
 
 
 

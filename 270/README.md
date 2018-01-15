@@ -8,3 +8,4 @@
 
 第9章のPandas DataFrameのデータをmatplotlib scatterが読み込めない問題を解決しました。
 
+第14章のoffer価格について、bidよりも低い場合の問題点を修正しました。
